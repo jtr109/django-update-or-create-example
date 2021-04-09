@@ -1,4 +1,4 @@
-Django==2.2.18
+Django==2.2.20
 django-dotenv==1.4.2
 mysqlclient==1.4.5
 pytz==2019.3
